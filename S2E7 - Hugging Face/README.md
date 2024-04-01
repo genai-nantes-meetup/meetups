@@ -10,5 +10,5 @@ Event:
 - [Eventbrite](https://www.eventbrite.com/e/billets-9-conf-par-hugging-face-lia-generative-open-source-853573991787)
 
 Resources:
-- [Intro](./intro.pdf)
-- [Talk](./talk.pdf)
+- [LLM Security](./llm-security.pdf)
+- [Talk Hugging Face](./hugging-face.pdf)

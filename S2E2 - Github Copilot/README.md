@@ -9,5 +9,5 @@ Event:
 - [Eventbrite](https://www.eventbrite.com/e/billets-4-conf-ameliorer-la-productivite-des-developpeurs-avec-github-copilot-748671736317)
 
 Resources:
-- [Intro](./intro.pdf)
-- [Talk](./talk.pdf)
+- [GenAI News](./genai-news.pdf)
+- [Talk Github Copilot](./github-copilot.pdf)

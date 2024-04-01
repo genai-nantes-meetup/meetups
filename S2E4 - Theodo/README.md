@@ -9,4 +9,4 @@ Event:
 - [Eventbrite](https://www.eventbrite.com/e/billets-6-conf-rex-sur-la-creation-dauto-php-un-agent-autonome-open-source-795358587947)
 
 Resources:
-- [Intro](./intro.pdf)
+- [GenAI News](./genai-news.pdf)

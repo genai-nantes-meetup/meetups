@@ -11,4 +11,4 @@ Event:
 - [Eventbrite](https://www.eventbrite.com/e/billets-5-conf-le-rag-booster-de-connaissances-pour-la-genia-766487654207)
 
 Resources:
-- [Intro](./intro.pdf)
+- [GenAI News](./genai-news.pdf)

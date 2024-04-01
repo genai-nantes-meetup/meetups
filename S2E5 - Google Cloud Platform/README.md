@@ -9,5 +9,5 @@ Event:
 - [Eventbrite](https://www.eventbrite.com/e/billets-7-conf-par-google-utilisation-dun-llm-en-java-gemini-et-langchain4j-813751541767)
 
 Resources:
-- [Intro](./intro.pdf)
-- [Talk](./talk.pdf)
+- [GenAI News](./genai-news.pdf)
+- [Talk GCP](./gcp.pdf)
