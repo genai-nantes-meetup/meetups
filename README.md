@@ -14,6 +14,7 @@
 - [2024-02-15 - Utilisation d'un LLM en Java, Gemini et LangChain4J](./S2E5%20-%20Google%20Cloud%20Platform/)
 - [2024-03-13 - Les LLMs dans le parcours conversationnel du e-commerce](./S2E6%20-%20iAdvize/)
 - [2024-03-27 - Hugging Face: L'IA générative open-source](./S2E7%20-%20Hugging%20Face/)
+- [2024-04-04 - Nuit des meetups: Intro à la GenAI](./S2E8%20-%20Nuit%20des%20meetups/)
 
 ### Suivre les prochains évènements
 
@@ -24,11 +25,17 @@
 
 Proposez vos talk sur le lien suivant: https://survey.screeb.app/1/1152a2d6-7afe-4938-a805-cbfa9bf1b3e6/d174c71d-76f6-4061-93cb-c556cba17c35
 
+## Organisateurs
+
+|                                              Maxime Pitussi                                              |                                               Samuel Berthe                                               |
+| :------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
+| <a href="https://www.linkedin.com/in/maximepitussi"><img src="assets/team/maxime.webp" width="70px"></a> | <a href="https://www.linkedin.com/in/samuelberthe/"><img src="assets/team/samuel.jpeg" width="100px"></a> |
+
 ## Partenaires
 
 Merci à nos partenaires ❤️
 
-<img width="150" title="Lonestone" src="./assets/partners/lonestone.png">
-<img width="150" title="RCA" src="./assets/partners/rca.png">
-<img width="150" title="Sfeir" src="./assets/partners/sfeir.png">
-<img width="150" title="Screeb" src="./assets/partners/screeb.svg">
+<a href="https://www.lonestone.io/"><img width="150" title="Lonestone" src="./assets/partners/lonestone.png"></a>
+<a href="https://rca.fr/"><img width="150" title="RCA" src="./assets/partners/rca.png"></a>
+<a href="https://sfeir.com"><img width="150" title="Sfeir" src="./assets/partners/sfeir.png"></a>
+<a href="https://screeb.app"><img width="150" title="Screeb" src="./assets/partners/screeb.svg"></a>
