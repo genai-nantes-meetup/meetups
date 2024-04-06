@@ -9,4 +9,4 @@ Event:
 - [La Cantine](https://www.lacantine.co/la-nuit-des-meetups-2024//)
 
 Resources:
-- [LLM Security](./nuit-des-meetups.pdf)
+- [Slides](./nuit-des-meetups.pdf)
