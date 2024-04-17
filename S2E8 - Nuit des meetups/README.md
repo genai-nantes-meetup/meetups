@@ -1,5 +1,5 @@
 
-# S2E7 - Nuit des meetups: Intro à la GenAI
+# S2E8 - Nuit des meetups: Intro à la GenAI
 
 Speaker:
 - [Maxime Pitussi](https://www.linkedin.com/in/maximepitussi)
