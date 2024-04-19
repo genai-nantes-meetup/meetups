@@ -12,3 +12,4 @@ Event:
 Resources:
 - [GenAI News](./genai-news.pdf)
 - [Talk Seelab](./seelab.pdf)
+- [Replay](https://www.youtube.com/watch?v=HOgOfbqBBfk)
