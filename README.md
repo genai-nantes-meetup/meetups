@@ -15,7 +15,7 @@
 - [2024-03-13 - Les LLMs dans le parcours conversationnel du e-commerce](./S2E6%20-%20iAdvize/)
 - [2024-03-27 - Hugging Face: L'IA générative open-source](./S2E7%20-%20Hugging%20Face/)
 - [2024-04-04 - Nuit des meetups: Intro à la GenAI](./S2E8%20-%20Nuit%20des%20meetups/)
-- [2024-04-17 - ine-tuning d'un modèle de génération d’image](./S2E9%20-%20Seelab//)
+- [2024-04-17 - Fine-tuning d'un modèle de génération d’image](./S2E9%20-%20Seelab//)
 
 ### Suivre les prochains évènements
 
