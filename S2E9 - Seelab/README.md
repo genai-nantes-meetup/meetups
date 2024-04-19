@@ -11,4 +11,4 @@ Event:
 
 Resources:
 - [GenAI News](./genai-news.pdf)
-- [Seelab](./seelab.pdf)
+- [Talk Seelab](./seelab.pdf)
