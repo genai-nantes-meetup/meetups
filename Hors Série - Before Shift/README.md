@@ -10,5 +10,5 @@ Event:
 - [Eventbrite](https://www.eventbrite.com/e/billets-boite-a-outil-de-la-gen-ai-et-cas-dusages-techniques-creatifs-et-metiers-887458501267?aff=oddtdtcreator)
 
 Resources:
-- [Slides](./seelab.pdf)
+- [Slides](./Slides_Before_Shift.pdf)
 - [Replay](https://youtu.be/ANCncbrvJFg)
