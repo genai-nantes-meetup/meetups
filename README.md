@@ -17,6 +17,7 @@
 - [2024-04-04 - Nuit des meetups: Intro à la GenAI](./S2E08%20-%20Nuit%20des%20meetups/)
 - [2024-04-17 - Fine-tuning d'un modèle de génération d’image](./S2E09%20-%20Seelab/)
 - [2024-05-22 - Before hackathon Shift: use cases](./S2E10%20-%20Hors%20Série%20-%20Before%20Shift/)
+- [2024-06-19 - AWS - Développement d'applications web d'IA générative](./S2E11%20-%20AWS/)
 
 ### Suivre les prochains évènements
 
