@@ -9,4 +9,5 @@ Event:
 - [Eventbrite](https://www.eventbrite.com/e/11-conf-par-aws-demystifiez-le-developpement-dapplications-web-gen-ai-tickets-920177554837?)
 
 Resources:
-- [GenAI News](./genai-news.pdf)
+- [Slides GenAI News](./genai-news.pdf)
+- [Replay GenAI News](https://youtu.be/97XmswVqnYs)
