@@ -11,3 +11,4 @@ Event:
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
 - [Replay GenAI News](https://youtu.be/97XmswVqnYs)
+- [Replay Conf' AWS](https://youtu.be/5NuzsEuvQK4)
