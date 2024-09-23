@@ -19,6 +19,7 @@
 - [2024-05-22 - Before hackathon Shift: use cases](./S2E10%20-%20Hors%20Série%20-%20Before%20Shift/)
 - [2024-06-19 - AWS - Développement d'applications web d'IA générative](./S2E11%20-%20AWS/)
 - [2024-07-11 - Code ton premier agent conversationnel](./S2E12%20-%20Workshop%20Streamlit%20+%20Langchain/)
+- [2024-09-18 - Les dessous de Llama 3](./S3E01%20-%20Meta/)
 
 ### Suivre les prochains évènements
 
