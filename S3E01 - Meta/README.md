@@ -10,4 +10,5 @@ Event:
 
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
+- [Slides Conf' Meta](./from-zero-to-llama3.pdf)
 - [Replay Conf' Meta]()
