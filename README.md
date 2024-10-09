@@ -20,6 +20,7 @@
 - [2024-06-19 - AWS - Développement d'applications web d'IA générative](./S2E11%20-%20AWS/)
 - [2024-07-11 - Code ton premier agent conversationnel](./S2E12%20-%20Workshop%20Streamlit%20+%20Langchain/)
 - [2024-09-18 - Les dessous de Llama 3](./S3E01%20-%20Meta/)
+- [2024-10-09 - Evaluation des RAG: Le Bon, la Brute et le Troublant](./S3E02%20-%20LeBonCoin/)
 
 ### Suivre les prochains évènements
 
