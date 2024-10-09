@@ -11,5 +11,5 @@ Event:
 
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
-- [Slides Conf' Meta](./from-zero-to-llama3.pdf)
-- [Replay Conf' Meta](https://youtu.be/oQlXSCt9SrA)
+- [Slides Conf' LeBonCoin](./)
+- [Replay Conf' LeBonCoin](./)
