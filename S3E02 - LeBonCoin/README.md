@@ -11,5 +11,5 @@ Event:
 
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
-- [Slides Conf' LeBonCoin](./)
-- [Replay Conf' LeBonCoin](./)
+- [Slides Conf' LeBonCoin](./rag-evaluation.pdf)
+
