@@ -34,9 +34,9 @@ Proposez vos talk sur le lien suivant: https://survey.screeb.app/1/1152a2d6-7afe
 
 ## Organisateurs
 
-|                                              Maxime Pitussi                                              |                                               Samuel Berthe                                               |
-| :------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
-| <a href="https://www.linkedin.com/in/maximepitussi"><img src="assets/team/maxime.webp" width="70px"></a> | <a href="https://www.linkedin.com/in/samuelberthe/"><img src="assets/team/samuel.jpeg" width="100px"></a> |
+|                                              Maxime Pitussi                                              |                                               Samuel Berthe           |  Simon Timsalle                                           |
+| :------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :----------: |
+| <a href="https://www.linkedin.com/in/maximepitussi"><img src="assets/team/maxime.webp" width="70px"></a> | <a href="https://www.linkedin.com/in/samuelberthe/"><img src="assets/team/samuel.jpeg" width="100px"></a> | <a href="https://www.linkedin.com/in/simon-timssale-bourrioux-746a1aa5"><img src="assets/team/simon.jpeg" width="100px"></a> |
 
 ## Partenaires
 
@@ -45,4 +45,3 @@ Merci à nos partenaires ❤️
 <a href="https://www.lonestone.io/"><img width="150" title="Lonestone" src="./assets/partners/lonestone.png"></a>
 <a href="https://rca.fr/"><img width="150" title="RCA" src="./assets/partners/rca.png"></a>
 <a href="https://sfeir.com"><img width="150" title="Sfeir" src="./assets/partners/sfeir.png"></a>
-<a href="https://screeb.app"><img width="150" title="Screeb" src="./assets/partners/screeb.svg"></a>
