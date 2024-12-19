@@ -1,5 +1,5 @@
 
-# S3E02 - Better, faster, stronger prototypes
+# SE303 - Better, faster, stronger prototypes
 
 Speaker:
 - [Simon Timssale](https://www.linkedin.com/in/simon-timssale-bourrioux-746a1aa5/)

@@ -21,7 +21,8 @@
 - [2024-07-11 - Code ton premier agent conversationnel](./S2E12%20-%20Workshop%20Streamlit%20+%20Langchain/)
 - [2024-09-18 - Les dessous de Llama 3](./S3E01%20-%20Meta/)
 - [2024-10-09 - Evaluation des RAG: Le Bon, la Brute et le Troublant](./S3E02%20-%20LeBonCoin/)
-- [2024-11-05 - Better, faster, stronger prototypes](./SE303%20-%20Prototypes/)
+- [2024-11-05 - Better, faster, stronger prototypes](./S3E03%20-%20Prototypes/)
+- [2024-12-19 - Lost in transcription](./S3E04%20-%20Gladia/)
 
 ### Suivre les prochains évènements
 
@@ -34,8 +35,8 @@ Proposez vos talk sur le lien suivant: https://survey.screeb.app/1/1152a2d6-7afe
 
 ## Organisateurs
 
-|                                              Maxime Pitussi                                              |                                               Samuel Berthe           |  Simon Timsalle                                           |
-| :------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :----------: |
+|                                              Maxime Pitussi                                              |                                               Samuel Berthe                                               |                                                        Simon Timsalle                                                        |
+| :------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://www.linkedin.com/in/maximepitussi"><img src="assets/team/maxime.webp" width="70px"></a> | <a href="https://www.linkedin.com/in/samuelberthe/"><img src="assets/team/samuel.jpeg" width="100px"></a> | <a href="https://www.linkedin.com/in/simon-timssale-bourrioux-746a1aa5"><img src="assets/team/simon.jpeg" width="100px"></a> |
 
 ## Partenaires
