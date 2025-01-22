@@ -23,6 +23,7 @@
 - [2024-10-09 - Evaluation des RAG: Le Bon, la Brute et le Troublant](./S3E02%20-%20LeBonCoin/)
 - [2024-11-05 - Better, faster, stronger prototypes](./S3E03%20-%20Prototypes/)
 - [2024-12-19 - Lost in transcription](./S3E04%20-%20Gladia/)
+- [2025-01-22 - Créer une startup GenAI en solopreneur en 2024](./S3E05%20-%20Globetrotters/)
 
 ### Suivre les prochains évènements
 
