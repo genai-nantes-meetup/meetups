@@ -5,8 +5,8 @@
 
 ## Events
 
-- [2023-06-13 - Hello world](./S1E1%20-%20Hello%20world/)
-- [2023-07-20 - Workshop: Build your first AI Agent (Code & No-Code)](./S1E2%20-%20Workshop%20langchain/)
+- [2023-06-13 - Hello world](./S1E01%20-%20Hello%20world/)
+- [2023-07-20 - Workshop: Build your first AI Agent (Code & No-Code)](./S1E02%20-%20Workshop%20langchain/)
 - [2023-10-23 - Fine-tuner des modèles open source pour faire mieux que GPT4](./S2E1%20-%20Crisp/)
 - [2023-11-28 - Améliorer la productivité des développeurs avec Github Copilot](./S2E02%20-%20Github%20Copilot/)
 - [2023-12-19 - Le RAG: booster de connaissances pour la GenAI ?](./S2E03%20-%20Devana/)
