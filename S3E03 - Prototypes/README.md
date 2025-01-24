@@ -11,3 +11,4 @@ Event:
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
 - [Slides Conf' Prototypes](./prototypes.pdf)
+- [Replay Conf'](https://www.youtube.com/watch?v=ANCncbrvJFg)
