@@ -10,4 +10,5 @@ Event:
 
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
-- [Slides Conf' Gladia](./)
+- [Slides Conf' Gladia](./Gladia.pdf)
+- [Replay Conf']()
