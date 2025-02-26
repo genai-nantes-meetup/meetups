@@ -12,3 +12,4 @@ Event:
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
 - [Slides Conf' Globetrotters](./Globetrotters-GenAI-Meetup-REX.pdf)
+- [Replay](https://www.youtube.com/watch?v=kx4NVeDLcus)

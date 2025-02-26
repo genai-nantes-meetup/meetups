@@ -24,6 +24,7 @@
 - [2024-11-05 - Better, faster, stronger prototypes](./S3E03%20-%20Prototypes/)
 - [2024-12-19 - Lost in transcription](./S3E04%20-%20Gladia/)
 - [2025-01-22 - Créer une startup GenAI en solopreneur en 2024](./S3E05%20-%20Globetrotters/)
+- [2025-02-26 - Doctolib: Building an Agentic AI System for Healthcare Support](./S3E06%20-%20Doctolib/)
 
 ### Suivre les prochains évènements
 
