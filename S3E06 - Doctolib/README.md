@@ -1,5 +1,5 @@
 
-# SE305 - Créer une startup GenAI en solopreneur en 2024
+# SE306 - Building an Agentic AI System for Healthcare Support
 
 Speaker:
 - [Goulven LE DÛ (Staff Engineer)](https://www.linkedin.com/in/goulven-le-du/)
