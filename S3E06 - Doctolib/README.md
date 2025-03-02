@@ -12,4 +12,4 @@ Event:
 
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
-- [Slides Conf' Doctolib]()
+- [Slides Conf' Doctolib](./slides.pdf)
