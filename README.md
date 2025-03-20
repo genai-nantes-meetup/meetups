@@ -25,6 +25,7 @@
 - [2024-12-19 - Lost in transcription](./S3E04%20-%20Gladia/)
 - [2025-01-22 - Créer une startup GenAI en solopreneur en 2024](./S3E05%20-%20Globetrotters/)
 - [2025-02-26 - Doctolib: Building an Agentic AI System for Healthcare Support](./S3E06%20-%20Doctolib/)
+- [2025-03-19 - Before hackathon Shift: use cases santé, éducation et culture ](./S3E07%20-%20Hors%20Série%20-%20Before%20Shift/)
 
 ### Suivre les prochains évènements
 
