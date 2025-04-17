@@ -50,3 +50,4 @@ Merci à nos partenaires ❤️
 <a href="https://www.lonestone.io/"><img width="150" title="Lonestone" src="./assets/partners/lonestone.png"></a>
 <a href="https://rca.fr/"><img width="150" title="RCA" src="./assets/partners/rca.png"></a>
 <a href="https://sfeir.com"><img width="150" title="Sfeir" src="./assets/partners/sfeir.png"></a>
+<a href="https://zenika.com"><img width="150" title="Sfeir" src="./assets/partners/zenika.webp"></a>
