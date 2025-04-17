@@ -12,5 +12,5 @@ Event:
 
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
-- [Slides Conf' Lucie]()
+- [Slides Conf' Lucie](./lucie.pdf)
 - [Replay]()
