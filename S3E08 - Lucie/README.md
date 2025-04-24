@@ -13,4 +13,4 @@ Event:
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
 - [Slides Conf' Lucie](./lucie.pdf)
-- [Replay]()
+- [Replay](https://www.youtube.com/watch?v=Zo3atITRBxc)
