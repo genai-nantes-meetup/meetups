@@ -27,7 +27,7 @@
 - [2025-02-26 - Doctolib: Building an Agentic AI System for Healthcare Support](./S3E06%20-%20Doctolib/)
 - [2025-03-19 - Before hackathon Shift: use cases santé, éducation et culture](./S3E07%20-%20Hors%20Série%20-%20Before%20Shift/)
 - [2025-04-16 - Lucie, from scratch with love](./S3E08%20-%20Lucie/)
-- [2025-05-14 - Meilisearch - Vector databases & MCP servers](./S3E08%20-%20Meilisearch/)
+- [2025-05-14 - Meilisearch - Vector databases & MCP servers](./S3E09%20-%20Meilisearch/)
 
 ### Suivre les prochains évènements
 
