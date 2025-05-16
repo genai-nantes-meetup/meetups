@@ -12,5 +12,4 @@ Event:
 
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
-- [Slides Conf' Meilisearch]()
-- [Replay]()
+- [Slides Conf' Meilisearch](./meilisearch.pdf)
