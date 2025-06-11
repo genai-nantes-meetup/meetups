@@ -4,6 +4,7 @@
 Speaker:
 - [Godefroy de Compreignac](https://www.linkedin.com/in/godefroy/)
 - [Raconte.ai](https://raconte.ai/)
+- [Micdrop](https://github.com/lonestone/micdrop)
 
 Event:
 - [Meetup](https://www.meetup.com/generative-ai-nantes/events/308024171/)
