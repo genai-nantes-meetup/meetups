@@ -6,4 +6,4 @@ Speaker:
 - [Samuel Berthe](https://www.linkedin.com/in/samuelberthe/)
 
 Resources:
-- [Slides GenAI News](./slides.pdf)
+- [Slides](./slides.pdf)
