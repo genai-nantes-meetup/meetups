@@ -12,4 +12,6 @@ Event:
 
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
-- [Slides Conf' Raconte](./)
+- [Slides Conf' Raconte](./assistant-vocal.pdf)
+
+![image](https://github.com/user-attachments/assets/8982136f-7a5d-4136-810a-65fcc44e8d18)
