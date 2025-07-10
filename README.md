@@ -30,6 +30,7 @@
 - [2025-05-14 - Meilisearch - Vector databases & MCP servers](./S3E09%20-%20Meilisearch/)
 - [2025-05-22 - Nuit des meetups: Intro à la GenAI](./S3E10%20-%20Nuit%20des%20meetups/)
 - [2025-06-11 - Raconte - Assistants vocaux](./S3E11%20-%20Raconte/)
+- [2025-07-09 - Workshop Cursor](./S3E12%20-%20Workshop%20Cursor/)
 
 ### Suivre les prochains évènements
 
