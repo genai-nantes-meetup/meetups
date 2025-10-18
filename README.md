@@ -32,6 +32,7 @@
 - [2025-06-11 - Raconte - Assistants vocaux](./S3E11%20-%20Raconte/)
 - [2025-07-09 - Workshop Cursor](./S3E12%20-%20Workshop%20Cursor/)
 - [2025-09-23 - CEA - Biais des LLMs](./S4E01%20-%20CEA/)
+- [2025-10-16 - Devfest Nantes](./S4E02%20-%20Devfest%20Nantes/)
 
 ### Suivre les prochains évènements
 

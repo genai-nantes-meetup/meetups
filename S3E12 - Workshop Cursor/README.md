@@ -1,5 +1,5 @@
 
-# SE312 - Workshop Cursor
+# S3E12 - Workshop Cursor
 
 Speaker:
 - [Maxime Courant](https://www.linkedin.com/in/maxime-courant-181294114/)
@@ -11,4 +11,4 @@ Event:
 - [Eventbrite](https://www.eventbrite.com/e/s3e12-workshop-cursor-de-zero-a-demo-places-limitees-tickets-1378500685659)
 
 Resources:
-- [Workshop](https://github.com/genai-nantes-meetup/workshop-cursor)
+- [Workshop](https://github.com/genai-nantes-meetup/workshop-cursor-meetup-2025)
