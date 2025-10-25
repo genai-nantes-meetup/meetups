@@ -12,5 +12,6 @@ Event:
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
 - [Slides CEA](./AkramElbouanani.pdf)
+- [Replay](https://www.youtube.com/watch?v=z3aszwJezaQ)
 
 <img width="2457" height="1382" alt="image" src="https://github.com/user-attachments/assets/f1fc28a1-bc43-4f7a-bcab-b31f00a462da" />
