@@ -1,5 +1,5 @@
 
-# S4EE01 - CEA - Biais politique dans les LLMs et comment les atténuer
+# S4E01 - CEA - Biais politique dans les LLMs et comment les atténuer
 
 Speaker:
 - [Akram Elbouanani](https://www.linkedin.com/in/akramelbouanani/)

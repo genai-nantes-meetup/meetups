@@ -1,7 +1,7 @@
 
 # S3E12 - Workshop Cursor
 
-Speaker:
+Speakers:
 - [Maxime Courant](https://www.linkedin.com/in/maxime-courant-181294114/)
 - [Dorian Ouvrard](https://www.linkedin.com/in/dorian-ouvrard/)
 - [Samuel Berthe](https://www.linkedin.com/in/samuelberthe/)

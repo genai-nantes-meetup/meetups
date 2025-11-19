@@ -1,0 +1,14 @@
+
+# S4E02 - Seelab - Prompt to Video: comment l'IA redéfinit la publicité
+
+Speaker:
+- [Maxime Bodereau](https://www.linkedin.com/in/maximebodereau/)
+- [Yannis Sulfourt](https://www.linkedin.com/in/yannissulfourt/)
+
+Event:
+- [Meetup](https://www.meetup.com/generative-ai-nantes/events/311842904/)
+- [Eventbrite](https://www.eventbrite.com/e/s4e02-conf-seelab-prompt-to-video-comment-lia-redefinit-la-publicite-tickets-1955691809849)
+
+Resources:
+- [Slides GenAI News](./genai-news.pdf)
+- [Slides Seelab](./)
