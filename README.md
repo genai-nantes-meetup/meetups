@@ -34,6 +34,7 @@
 - [2025-09-23 - CEA - Biais des LLMs](./S4E01%20-%20CEA/)
 - [2025-10-16 - Devfest Nantes](./S4E0X%20-%20Devfest%20Nantes/)
 - [2025-11-19 - Seelab](./S4E02%20-%20Seelab/)
+- [2025-12-10 - Guest Suite](./S4E03%20-%20Guest%20Suite/)
 
 ### Suivre les prochains évènements
 
