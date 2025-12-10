@@ -2,8 +2,8 @@
 # S4E03 - Guest Suite - Comment ils ont économisé 40K€/an en moins de 6h
 
 Speakers:
-- [Maxime Bodereau](https://www.linkedin.com/in/maximebodereau/)
-- [Yannis Sulfourt](https://www.linkedin.com/in/yannissulfourt/)
+- [Thomas Mathieu](https://www.linkedin.com/in/thomasmathieu1/)
+- [Clément Poupeau](https://www.linkedin.com/in/clement-poupeau/)
 
 Event:
 - [Meetup](https://www.meetup.com/generative-ai-nantes/events/312155482/)
@@ -12,3 +12,5 @@ Event:
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
 - [Slides Guest Suite](./)
+
+<img width="2411" height="1356" alt="image" src="https://github.com/user-attachments/assets/ea7ae046-5e11-4920-a663-005d624d38bf" />
