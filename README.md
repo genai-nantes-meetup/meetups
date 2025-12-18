@@ -55,8 +55,5 @@ Proposez vos talk sur le lien suivant: https://survey.screeb.app/1/1152a2d6-7afe
 
 Merci à nos partenaires ❤️
 
-<a href="https://www.lonestone.io/"><img width="150" title="Lonestone" src="./assets/partners/lonestone.png"></a>
-<a href="https://rca.fr/"><img width="150" title="RCA" src="https://github.com/user-attachments/assets/56aab759-aecf-459e-9747-652eac27b0f4"></a>
-
-<a href="https://sfeir.com"><img width="150" title="Sfeir" src="./assets/partners/sfeir.png"></a>
-<a href="https://zenika.com"><img width="200" title="Sfeir" src="./assets/partners/zenika.webp"></a>
+| <a href="https://www.lonestone.io/"><img title="Lonestone" src="./assets/partners/lonestone.png"></a> | <a href="https://www.externatic.fr/"><img title="Externatic" src="./assets/partners/externatic_horizontal.png"></a> | <a href="https://techtown.fr/"><img title="Techtown" src="./assets/partners/techtown.png"></a> | <a href="https://rca.fr"><img title="RCA" src="./assets/partners/RCA.png"></a> | <a href="https://zenika.com/"><img title="Zenika" src="./assets/partners/zenika.png"></a> |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
