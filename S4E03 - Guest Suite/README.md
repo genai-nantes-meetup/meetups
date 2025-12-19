@@ -11,6 +11,6 @@ Event:
 
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
-- [Slides Guest Suite](./)
+- [Slides Guest Suite](./Conf-Gen-AI.pdf)
 
 <img width="2411" height="1356" alt="image" src="https://github.com/user-attachments/assets/ea7ae046-5e11-4920-a663-005d624d38bf" />
