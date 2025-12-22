@@ -55,5 +55,8 @@ Proposez vos talk sur le lien suivant: https://survey.screeb.app/1/1152a2d6-7afe
 
 Merci à nos partenaires ❤️
 
+| <a href="[https://rca.fr](https://sii-group.com/fr-FR/sii-atlantique-devoile-ses-nouveaux-locaux)"><img width="300" title="RCA" src="./assets/partners/SII.png"></a> |
+| :-----: |
+
 | <a href="https://www.lonestone.io/"><img title="Lonestone" src="./assets/partners/lonestone.png"></a> | <a href="https://www.externatic.fr/"><img title="Externatic" src="./assets/partners/externatic_horizontal.png"></a> | <a href="https://techtown.fr/"><img title="Techtown" src="./assets/partners/techtown.png"></a> | <a href="https://rca.fr"><img title="RCA" src="./assets/partners/RCA.png"></a> | <a href="https://zenika.com/"><img title="Zenika" src="./assets/partners/zenika.png"></a> |
 | :-----: | :-----: | :-----: | :-----: | :-----: |
