@@ -12,5 +12,6 @@ Event:
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
 - [Slides Globetrotters](./)
+- [Replay Globetrotters](./)
 
 <img width="2123" height="1194" alt="image" src="https://github.com/user-attachments/assets/e38cc2e6-778a-42b5-8a03-4a06a7788400" />
