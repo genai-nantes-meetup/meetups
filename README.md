@@ -36,6 +36,7 @@
 - [2025-11-19 - Seelab](./S4E02%20-%20Seelab/)
 - [2025-12-10 - Guest Suite](./S4E03%20-%20Guest%20Suite/)
 - [2026-01-15 - Globetrotters - Comment créer une équipe d’agents IA en 2026](./S4E04%20-%20Globetrotters/)
+- [2026-02-11 - Deepmind - Comment Google Antigravity Transforme le vibe-coding](./S4E05%20-%20Deepmind%20-%20Antigravity/)
 
 ### Suivre les prochains évènements
 
