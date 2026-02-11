@@ -4,6 +4,7 @@
 Speaker:
 - [Guillaume Vernade](https://www.linkedin.com/in/guillaumevernade/)
 - [Deepmind](https://deepmind.google/)
+- [Antigravity](https://antigravity.google)
 
 Event:
 - [Meetup](https://www.meetup.com/generative-ai-nantes/events/312956856)
