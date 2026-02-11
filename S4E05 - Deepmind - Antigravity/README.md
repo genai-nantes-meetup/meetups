@@ -11,3 +11,5 @@ Event:
 
 Resources:
 - [Slides GenAI News](./genai-news.pdf)
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/65d29e7e-089d-4ec0-897b-106caa1d487d" />
