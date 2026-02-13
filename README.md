@@ -33,10 +33,10 @@
 - [2025-07-09 - Workshop Cursor](./S3E12%20-%20Workshop%20Cursor/)
 - [2025-09-23 - CEA - Biais des LLMs](./S4E01%20-%20CEA/)
 - [2025-10-16 - Devfest Nantes](./S4E0X%20-%20Devfest%20Nantes/)
-- [2025-11-19 - Seelab](./S4E02%20-%20Seelab/)
-- [2025-12-10 - Guest Suite](./S4E03%20-%20Guest%20Suite/)
+- [2025-11-19 - Seelab - Video generation](./S4E02%20-%20Seelab/)
+- [2025-12-10 - Guest Suite - IA & Nocode](./S4E03%20-%20Guest%20Suite/)
 - [2026-01-15 - Globetrotters - Comment créer une équipe d’agents IA en 2026](./S4E04%20-%20Globetrotters/)
-- [2026-02-11 - Deepmind - Comment Google Antigravity Transforme le vibe-coding](./S4E05%20-%20Deepmind%20-%20Antigravity/)
+- [2026-02-11 - Deepmind - Comment Google Antigravity Transforme le vibe-coding](./S4E05%20-%20Deepmind%20-%20Vibe-coding/)
 
 ### Suivre les prochains évènements
 
