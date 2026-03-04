@@ -13,3 +13,5 @@ Event:
 
 Resources:
 - [Slides workshop](./workshop.pdf)
+
+<img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/48e68328-c2af-4e16-a607-6af508aab5c2" />
