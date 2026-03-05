@@ -13,5 +13,6 @@ Event:
 
 Resources:
 - [Slides workshop](./workshop.pdf)
+- [Correcteur du workshop](https://chatgpt.com/g/g-69a8517bdc9081918e7282e7a550b8fd-correcteur-d-assistant)
 
 <img width="2133" height="1200" alt="image" src="https://github.com/user-attachments/assets/48e68328-c2af-4e16-a607-6af508aab5c2" />
