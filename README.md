@@ -45,10 +45,6 @@
 - [Meetup.com](https://www.meetup.com/generative-ai-nantes)
 - [Eventbrite](https://www.eventbrite.com/o/generative-ai-nantes-73163402733)
 
-## RFP
-
-Proposez vos talk sur le lien suivant: https://survey.screeb.app/1/1152a2d6-7afe-4938-a805-cbfa9bf1b3e6/d174c71d-76f6-4061-93cb-c556cba17c35
-
 ## Organisateurs
 
 |                                              Maxime Pitussi                                               |                                               Samuel Berthe                                               |                                                        Simon Timsalle                                                        |                                               Dorian Ouvrard                                               |                                             Remi Wetteren                                              |
