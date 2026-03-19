@@ -12,3 +12,4 @@ Event:
 Resources:
 - [Slides Talk Créativité](./creativite.pdf)
 - [Replay talk Créativité](https://www.youtube.com/watch?v=hMxts4Pygi0)
+- [Replay talk Gaël Musquet](https://www.youtube.com/watch?v=HJjJfaDW_qY)
