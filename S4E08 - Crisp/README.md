@@ -12,5 +12,5 @@ Event:
 
 Resources:
 - [Slides Talk News](./slides.pdf)
-- [Slides talk Crisp]()
+- [Slides talk Crisp](./crisp.pdf)
 - [Replay talk Crisp]()
