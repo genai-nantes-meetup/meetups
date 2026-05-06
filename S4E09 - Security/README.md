@@ -15,3 +15,5 @@ Resources:
 - [Slides talk sécurité offensive]()
 - [Slides talk sécurité défensive]()
 - [Replay]()
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/036307c1-90c5-4844-988d-42d0ea3d483a" />
