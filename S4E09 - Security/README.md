@@ -11,8 +11,8 @@ Event:
 - [Eventbrite](https://www.eventbrite.com/e/s4e09-genai-la-nouvelle-surface-dattaque-tickets-1988275635950)
 
 Resources:
-- [Slides Talk News Design]()
-- [Slides talk sécurité offensive]()
+- [Slides Talk News Design](./news-design.pdf)
+- [Slides talk sécurité offensive](./securite-offensive.pdf)
 - [Slides talk sécurité défensive]()
 - [Replay]()
 
