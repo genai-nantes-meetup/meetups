@@ -40,6 +40,7 @@
 - [2026-03-04 - HR assistant](./S4E06%20-%20HR%20assistant/)
 - [2026-03-12 - Hacking](./S4E07%20-%20Hacking/)
 - [2026-03-12 - Crisp - Agentic Customer Supper](./S4E08%20-%20Crisp/)
+- [2026-03-12 - Security x AI](./S4E09%20-%20Security/)
 
 ### Suivre les prochains évènements
 
