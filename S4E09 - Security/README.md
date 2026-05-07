@@ -13,7 +13,7 @@ Event:
 Resources:
 - [Slides Talk News Design](./news-design.pdf)
 - [Slides talk sécurité offensive](./securite-offensive.pdf)
-- [Slides talk sécurité défensive]()
+- [Slides talk sécurité défensive](./securite-defensive.pdf)
 - [Replay]()
 
 <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/036307c1-90c5-4844-988d-42d0ea3d483a" />
