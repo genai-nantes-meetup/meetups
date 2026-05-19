@@ -13,4 +13,4 @@ Event:
 Resources:
 - [Slides Talk News](./slides.pdf)
 - [Slides talk Crisp](./crisp.pdf)
-- [Replay talk Crisp]()
+- [Replay talk Crisp](https://www.youtube.com/watch?v=peVK8o0nlq0)
