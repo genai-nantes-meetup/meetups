@@ -41,6 +41,7 @@
 - [2026-03-12 - Hacking](./S4E07%20-%20Hacking/)
 - [2026-03-12 - Crisp - Agentic Customer Supper](./S4E08%20-%20Crisp/)
 - [2026-03-12 - Security x AI](./S4E09%20-%20Security/)
+- [2026-04-28 - Des slides canon avec l'IA générative](./S4E10%20-%20Slides/)
 
 ### Suivre les prochains évènements
 
