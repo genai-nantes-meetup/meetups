@@ -1,5 +1,5 @@
 
-# S4E04 - Globetrotters - Comment créer une équipe d’agents IA en 2026
+# S4E05 - Globetrotters - Comment créer une équipe d’agents IA en 2026
 
 Speaker:
 - [Benoit Hédiard](https://www.linkedin.com/in/benorama/)

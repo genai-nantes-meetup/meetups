@@ -1,5 +1,5 @@
 
-# S4E10 - Des slides canon avec l'IA générative
+# S4E11 - Des slides canon avec l'IA générative
 
 Speaker:
 - [Simon Timssale](https://www.linkedin.com/in/simon-timssale-bourrioux-746a1aa5/)

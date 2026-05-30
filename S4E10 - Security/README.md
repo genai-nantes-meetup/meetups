@@ -1,5 +1,5 @@
 
-# S4E09 - Security x AI
+# S4E10 - Security x AI
 
 Speakers:
 - [Simon Timssale](https://www.linkedin.com/in/simon-timssale-bourrioux-746a1aa5/)

@@ -1,5 +1,5 @@
 
-# S4E02 - Seelab - Prompt to Video: comment l'IA redéfinit la publicité
+# S4E03 - Seelab - Prompt to Video: comment l'IA redéfinit la publicité
 
 Speakers:
 - [Maxime Bodereau](https://www.linkedin.com/in/maximebodereau/)

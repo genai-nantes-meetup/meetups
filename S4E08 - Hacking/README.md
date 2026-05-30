@@ -1,5 +1,5 @@
 
-# S4E07 - Before Shift - L'art du détournement
+# S4E08 - Before Shift - L'art du détournement
 
 Speakers:
 - [Gaël Musquet](https://www.linkedin.com/in/gmusquet/)

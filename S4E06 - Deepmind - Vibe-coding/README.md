@@ -1,5 +1,5 @@
 
-# S4E05 - Deepmind - Comment Google Antigravity Transforme le vibe-coding
+# S4E06 - Deepmind - Comment Google Antigravity Transforme le vibe-coding
 
 Speaker:
 - [Guillaume Vernade](https://www.linkedin.com/in/guillaumevernade/)

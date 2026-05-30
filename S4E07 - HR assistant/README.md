@@ -1,5 +1,5 @@
 
-# S4E06 - HR assistant
+# S4E07 - HR assistant
 
 Speaker:
 - [Simon Timssale](https://www.linkedin.com/in/simon-timssale-bourrioux-746a1aa5/)

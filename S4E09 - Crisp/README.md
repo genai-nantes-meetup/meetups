@@ -1,5 +1,5 @@
 
-# S4E08 - Crisp - Agentic Customer Support
+# S4E09 - Crisp - Agentic Customer Support
 
 Speakers:
 - [Baptiste Jamin](https://www.linkedin.com/in/baptistejamin/)
