@@ -41,7 +41,8 @@
 - [2026-03-12 - Hacking](./S4E08%20-%20Hacking/)
 - [2026-03-22 - Crisp - Agentic Customer Supper](./S4E09%20-%20Crisp/)
 - [2026-04-06 - Security x AI](./S4E10%20-%20Security/)
-- [2026-05-28 - Des slides canon avec l'IA générative](./S4E11%20-%20Slides/)
+- [2026-05-28 - Des slides canon avec l'IA générative](./S4E11%20-%20Good%20looking%20Slides/)
+- [2026-06-18 - Claude Code](./S4E12%20-%20Claude%20Code/)
 
 ### Suivre les prochains évènements
 
