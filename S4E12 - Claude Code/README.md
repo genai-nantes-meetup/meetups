@@ -15,3 +15,5 @@ Resources:
 - [Replay talk]()
 
 Merci à Onepoint pour l'accueil !
+
+<img width="960" height="540" alt="cover-onepoint" src="https://github.com/user-attachments/assets/38eb37c7-c337-409b-aea8-48c499904679" />
