@@ -11,7 +11,7 @@ Event:
 
 Resources:
 - [Slides News](./news.pdf)
-- [Slides Claude Code](./)
+- [Slides Claude Code](https://tordu-jardin.fr/decks/shipper-les-yeux-fermes/index.html)
 - [Replay talk]()
 
 Merci à Onepoint pour l'accueil !
