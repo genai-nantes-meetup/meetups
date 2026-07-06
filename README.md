@@ -3,6 +3,8 @@
 
 <img width="150" title="Logo GenAI Meetup Nantes" src="./assets/logo.png">
 
+CFP: https://tally.so/r/obQBrV
+
 ## Events
 
 - [2023-06-13 - Hello world](./S1E01%20-%20Hello%20world/)
