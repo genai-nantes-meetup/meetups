@@ -14,3 +14,4 @@ Resources:
 
 Merci à Epitech pour l'accueil !
 
+<img width="3353" height="1886" alt="image" src="https://github.com/user-attachments/assets/0b5e9281-dd56-4827-9917-793bebd98540" />
