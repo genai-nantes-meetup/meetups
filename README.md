@@ -39,12 +39,14 @@ CFP: https://tally.so/r/obQBrV
 - [2025-12-10 - Guest Suite - IA & Nocode](./S4E04%20-%20Guest%20Suite/)
 - [2026-01-15 - Globetrotters - Comment créer une équipe d’agents IA en 2026](./S4E05%20-%20Globetrotters/)
 - [2026-02-11 - Deepmind - Comment Google Antigravity Transforme le vibe-coding](./S4E06%20-%20Deepmind%20-%20Vibe-coding/)
-- [2026-03-04 - HR assistant](./S4E07%20-%20HR%20assistant/)
-- [2026-03-12 - Hacking](./S4E08%20-%20Hacking/)
-- [2026-03-22 - Crisp - Agentic Customer Supper](./S4E09%20-%20Crisp/)
+- [2026-03-04 - Workshop HR assistant](./S4E07%20-%20HR%20assistant/)
+- [2026-03-12 - Hacking culture](./S4E08%20-%20Hacking%20culture/)
+- [2026-03-22 - Crisp - Agentic Customer Support](./S4E09%20-%20Crisp/)
 - [2026-04-06 - Security x AI](./S4E10%20-%20Security/)
 - [2026-05-28 - Des slides canon avec l'IA générative](./S4E11%20-%20Good%20looking%20Slides/)
-- [2026-06-18 - Claude Code](./S4E12%20-%20Claude%20Code/)
+- [2026-06-02 - SII - Sortir de la dette technique avec l’IA](./S4E12%20-%20Refactoring/)
+- [2026-06-18 - Sur-optimiser Claude Code pour shipper les yeux fermés](./S4E13%20-%20Claude%20Code/)
+- [2026-07-09 - Workshop Midjourney](./S4E14%20-%20Workshop%20Midjourney/)
 
 ### Suivre les prochains évènements
 
@@ -65,4 +67,4 @@ Merci à nos partenaires ❤️
 | :------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 | <a href="https://www.lonestone.io/"><img title="Lonestone" src="./assets/partners/lonestone.png"></a> | <a href="https://www.externatic.fr/"><img title="Externatic" src="./assets/partners/externatic_horizontal.png"></a> | <a href="https://techtown.fr/"><img title="Techtown" src="./assets/partners/techtown.png"></a> | <a href="https://rca.fr"><img title="RCA" src="./assets/partners/RCA.png"></a> | <a href="https://zenika.com/"><img title="Zenika" src="./assets/partners/zenika.png"></a> | <a href="https://sfeir.com/"><img title="_icilundi" src="./assets/partners/icilundi.webp"></a> |
-| :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+| :---------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: |

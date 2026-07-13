@@ -1,5 +1,5 @@
 
-# S4E12 - Claude Code
+# S4E13 - Comment sur-optimiser Claude Code pour shipper les yeux fermés
 
 Speaker:
 - [Samuel Berthe](https://www.linkedin.com/in/samuelberthe/)
