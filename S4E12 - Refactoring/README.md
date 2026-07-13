@@ -15,3 +15,5 @@ Resources:
 - [Replay talk]()
 
 Merci à SII pour l'accueil !
+
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/751848b0-518a-4647-af82-826ad0ce3bbf" />
