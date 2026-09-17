@@ -47,6 +47,7 @@ CFP: https://tally.so/r/obQBrV
 - [2026-06-02 - SII - Sortir de la dette technique avec l’IA](./S4E12%20-%20Refactoring/)
 - [2026-06-18 - Sur-optimiser Claude Code pour shipper les yeux fermés](./S4E13%20-%20Claude%20Code/)
 - [2026-07-09 - Workshop Midjourney](./S4E14%20-%20Workshop%20Midjourney/)
+- [2026-09-17 - Vos agents IA fonctionnent. Maintenant, réduisez la facture](./S5E01%20-%20Edgee/)
 
 ### Suivre les prochains évènements
 
