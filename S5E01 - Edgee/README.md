@@ -15,3 +15,5 @@ Resources:
 - [Replay Edgee]()
 
 Merci à _icilundi pour l'accueil !
+
+<img width="1229" height="690" alt="image" src="https://github.com/user-attachments/assets/9de3465d-e488-4523-8be0-d228ebd0a581" />
