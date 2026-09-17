@@ -11,7 +11,7 @@ Event:
 
 Resources:
 - [Slides News](./news.pdf)
-- [Slides Edgee](./edge.pdf)
+- [Slides Edgee](./edgee.pdf)
 - [Replay Edgee]()
 
 Merci à _icilundi pour l'accueil !
