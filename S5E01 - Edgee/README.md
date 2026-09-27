@@ -12,7 +12,7 @@ Event:
 Resources:
 - [Slides News](./news.pdf)
 - [Slides Edgee](./edgee.pdf)
-- [Replay Edgee]()
+- [Replay Edgee](https://youtu.be/grGRlP2GYqQ)
 
 Merci à _icilundi pour l'accueil !
 
