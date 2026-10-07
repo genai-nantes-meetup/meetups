@@ -16,3 +16,5 @@ Resources:
 - [Replay Rodz]()
 
 Merci à La Cantine pour l'accueil !
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f11130ba-9b7c-4ad0-ab24-437a12e12da0" />
