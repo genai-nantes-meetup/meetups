@@ -12,7 +12,7 @@ Event:
 
 Resources:
 - [Slides News](./news.pdf)
-- [Slides Rodz]()
+- [Slides Rodz](https://gitlab.com/tordu-jardin/un-sales-qui-code/)
 - [Replay Rodz]()
 
 Merci à La Cantine pour l'accueil !
