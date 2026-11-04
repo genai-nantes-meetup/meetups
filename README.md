@@ -49,6 +49,7 @@ CFP: https://tally.so/r/obQBrV
 - [2026-07-09 - Workshop Midjourney](./S4E14%20-%20Workshop%20Midjourney/)
 - [2026-09-17 - Vos agents IA fonctionnent. Maintenant, réduisez la facture](./S5E01%20-%20Edgee/)
 - [2026-10-07 - Vibe-coder une app de 0€ à 15k€ de MRR en 6 mois](./S5E02%20-%20Rodz/)
+- [2026-11-04 - On ship 10x plus vite depuis notre terminal grâce à nos 2nd brain](./S5E03%20-%20Second%20brain/)
 
 ### Suivre les prochains évènements
 
