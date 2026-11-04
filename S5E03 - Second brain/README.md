@@ -22,3 +22,5 @@ Resources:
 - [Replay Second Brain]()
 
 Merci à _icilundi pour l'accueil !
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2891ce9b-0cd3-43b6-96a4-b54a704d0cf6" />
