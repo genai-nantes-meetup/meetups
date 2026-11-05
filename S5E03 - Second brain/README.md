@@ -2,10 +2,10 @@
 # S5E03 - Mistral & Second Brain
 
 2 talks:
-- News Mistral
+- Mistral News
 - Second Brain
 
-Speaker:
+Speakers:
 - [Adrien Etaix](https://www.linkedin.com/in/adrienetaix/)
 - [Louis Ammonique](https://www.linkedin.com/in/louis-ammonique/)
 - [Clément Spiers](https://www.linkedin.com/in/clementspiers/)
@@ -17,7 +17,7 @@ Event:
 
 Resources:
 - [Slides News Mistral]()
-- [Slides Second Brain]()
+- Slides Second Brain: [pdf](./Le%20second%20brain%20du%20marketing.pdf) - [html](./Le%20second%20brain%20du%20marketing.html)
 - [Replay Mistral]()
 - [Replay Second Brain]()
 
