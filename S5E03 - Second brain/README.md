@@ -19,7 +19,7 @@ Resources:
 - [Slides News Mistral]()
 - Slides Second Brain: [pdf](./Le%20second%20brain%20du%20marketing.pdf) - [html](./Le%20second%20brain%20du%20marketing.html)
 - [Replay Mistral]()
-- [Replay Second Brain]()
+- [Replay Second Brain](https://www.youtube.com/watch?v=X2o43O-AsfQ)
 
 Merci à _icilundi pour l'accueil !
 
